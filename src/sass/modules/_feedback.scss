@@ -1,0 +1,14 @@
+.fb-list {
+    display: flex;
+    justify-content: center;
+    
+    list-style-type: none;
+}
+
+.fb-item {
+    margin-right: 15px;
+}
+
+.fb-item:last-child {
+    margin-right: 0;
+}
